@@ -1,0 +1,78 @@
+font color in html
+#RGB
+#000000
+
+html-
+
+basic tags
+	<html>
+	<head>
+	<body>
+
+formatting tags
+font
+bold,itlic,underline
+paragraph
+heading tag- h1 to h6
+br-line break
+pre
+hr horizondal rule
+marquee direction, scrolldelay
+sub-subscript sup-superscript
+unicodes &copy &#3333
+strike
+
+
+lists
+ordered list- type, start
+unordered list- square, circle
+definition list- dl dd
+
+
+frames
+<frameset rows="25,75">
+	<frame src="url"/>
+	<frame src="url"/>
+</frameset>
+<iframe src="url"></iframe>
+
+
+forms
+action="target"(server side script)
+method="get/post"
+enctype
+get-via url variable
+syntax of url- protocol://<ip/domain name>/uri?<utl variable>=value&
+post- via header
+elements:-
+input - text,password,checkbox,radiobuttons,file,hidden,submit,reset,button
+textarea - paragraph
+select - dropdown list
+<select>
+<option selected>value</option>
+<option>value</option>
+<option>value</option>
+</select>
+<select multiple>
+<option>value</option>
+<option>value</option>
+<option>value</option>
+<option>value</option>
+</select>
+
+images
+<img src="path">
+.jpg
+.jpeg
+.png
+.gif
+path 
+->absolute path
+->relative path
+
+anchors
+<a href="location url">text</a>
+internal
+
+
+tables
